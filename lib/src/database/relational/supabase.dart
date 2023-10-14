@@ -1,5 +1,5 @@
-import 'package:connect_x/lib/src/connect_x_base.dart';
-import 'package:connect_x/lib/src/exceptions/condition_exceptions.dart';
+import 'package:connect_x/src/connect_x_base.dart';
+import 'package:connect_x/src/exceptions/condition_exceptions.dart';
 import 'package:supabase/supabase.dart';
 
 class ConnectXSupabase extends ConnectX implements DatabaseConnector {

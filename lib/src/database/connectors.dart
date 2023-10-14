@@ -1,4 +1,4 @@
-import 'package:connect_x/lib/src/exceptions/initilizatin_exceptions.dart';
+import 'package:connect_x/src/exceptions/initilizatin_exceptions.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:supabase/supabase.dart';
 
